@@ -41,6 +41,7 @@ click on cart
 
 verify the previously added item in cart
     Get Text    ${addeditem}
+    Log To Console    Ok,logged
 
     
     
